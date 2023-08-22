@@ -1,5 +1,17 @@
 # AssemblyGame
 This is a game that I made using Motorola 6800k Assembly
+
+This game was made in two weeks and showcases the following features: 
+---
+1. User input control for the game entity.  
+2. Bitmap background with entities moving over it.  
+3. Physics update of the game entity.  
+4. Fixed point math.  
+5. Collision detection between game entities.  
+6. A score indicator as a 7-segment LED.  
+7. Data driven path movement for the duck.  
+8. Sprite animations.  
+
 # Ball Crush Game - Made In 68000k Assembly.
 
 #### To play the game:  
@@ -20,13 +32,3 @@ the enemy(rectangle) you will be eliminated and the game will be over! Good luck
 
 
 
-This game was made in two weeks and showcases the following features: 
----
-1. User input control for the game entity.  
-2. Bitmap background with entities moving over it.  
-3. Physics update of the game entity.  
-4. Fixed point math.  
-5. Collision detection between game entities.  
-6. A score indicator as a 7-segment LED.  
-7. Data driven path movement for the duck.  
-8. Sprite animations.  
