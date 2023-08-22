@@ -8,9 +8,7 @@ This game was made in two weeks and showcases the following features:
 3. Physics update of the game entity.  
 4. Fixed point math.  
 5. Collision detection between game entities.  
-6. A score indicator as a 7-segment LED.  
-7. Data driven path movement for the duck.  
-8. Sprite animations.  
+6. A score indicator as a 7-segment LED. 
 
 # Ball Crush Game - Made In 68000k Assembly.
 
