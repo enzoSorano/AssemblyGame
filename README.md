@@ -9,6 +9,7 @@ This game was made in two weeks and showcases the following features:
 4. Fixed point math.  
 5. Collision detection between game entities.  
 6. A score indicator as a 7-segment LED. 
+7. Table-driven methods
 
 # Ball Crush Game - Made In 68000k Assembly.
 
